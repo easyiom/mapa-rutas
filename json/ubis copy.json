@@ -1,0 +1,28 @@
+{
+    "items": [{
+            "id": "1",
+            "nombre_lugar": "Macdonlalads",
+            "ubi_lugar": "Plaça tetuan, 40, Barcelona",
+            "coord_lugar": "41.394830934929, 2.1763027203203",
+            "telf_lugar": "987345762",
+            "descripcion_lugar": "Comidinha rapida",
+            "foto_lugar": "foto.png",
+            "id_tipo_fk": "restaurante",
+            "id_tag_fk": "Comida rapida",
+            "icono_lugar": "fad fa-utensils"
+        },
+        {
+            "id": "2",
+            "nombre_lugar": "Macdonalds",
+            "ubi_lugar": "Carrer del Dr. Joaquín Albarrán, 30, 08034 Barcelona",
+            "coord_lugar": "41.392133911969, 2.10587093354150",
+            "telf_lugar": "987345762",
+            "descripcion_lugar": "Comidinha rapida",
+            "foto_lugar": "foto.png",
+            "id_tipo_fk": "restaurante",
+            "id_tag_fk": "Comida rapida",
+            "icono_lugar": "fad fa-archway",
+            "ubi": [1, 2, 3, 4, 5]
+        }
+    ]
+}

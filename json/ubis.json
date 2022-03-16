@@ -1,0 +1,245 @@
+[
+    [{
+            "id_lugar": 1,
+            "nombre_lugar": "Restaurant Petra",
+            "coordenadas_lugar": "41.38390263173808, 2.181783655164913",
+            "direccion_lugar": "",
+            "telf_lugar": "933199999",
+            "descripcion_lugar": "Platos catalanes tradicionales y de temporada en un restaurante pintoresco, con azulejos llamativos y vidrieras.",
+            "foto_lugar": "petra.png",
+            "id_tipo_fk": 1,
+            "id_tag_fk": 1
+        },
+        {
+            "id_lugar": 2,
+            "nombre_lugar": "Mescladís del Pou",
+            "coordenadas_lugar": "41.38708152338786, 2.1803348757929433",
+            "direccion_lugar": "",
+            "telf_lugar": "933198732",
+            "descripcion_lugar": "Platos sostenibles elaborados por los miembros de un programa de formación culinaria y servidos en un bar moderno y artístico.",
+            "foto_lugar": "mescladispou.png",
+            "id_tipo_fk": 1,
+            "id_tag_fk": 1
+        },
+        {
+            "id_lugar": 3,
+            "nombre_lugar": "Restaurante La Estrella",
+            "coordenadas_lugar": "41.38377920824461, 2.1850558011125725",
+            "direccion_lugar": "",
+            "telf_lugar": "933102768",
+            "descripcion_lugar": "Restaurante refinado de larga trayectoria, que ofrece alta cocina catalana elaborada con productos frescos locales y de temporada.",
+            "foto_lugar": "laestrella.png",
+            "id_tipo_fk": 1,
+            "id_tag_fk": 1
+        },
+        {
+            "id_lugar": 4,
+            "nombre_lugar": "Museo del Chocolate",
+            "coordenadas_lugar": "41.387362598724735, 2.181701106014877",
+            "direccion_lugar": "",
+            "telf_lugar": "932687878",
+            "descripcion_lugar": "Museo con obras de arte famosas elaboradas con chocolate, además de talleres para niños y adultos.",
+            "foto_lugar": "chocolate.png",
+            "id_tipo_fk": 2,
+            "id_tag_fk": 1
+        },
+        {
+            "id_lugar": 5,
+            "nombre_lugar": "Museu Picasso de Barcelona",
+            "coordenadas_lugar": "41.385171551786605, 2.1808147393527633",
+            "direccion_lugar": "",
+            "telf_lugar": "932563000",
+            "descripcion_lugar": "Mansión medieval que alberga una amplia colección de piezas y obras maestras del pintor cubista español.",
+            "foto_lugar": "picasso.png",
+            "id_tipo_fk": 2,
+            "id_tag_fk": 1
+        },
+        {
+            "id_lugar": 6,
+            "nombre_lugar": "Museo Etnológico y de Culturas del Mundo",
+            "coordenadas_lugar": "41.38506277199984, 2.180867341937956",
+            "direccion_lugar": "",
+            "telf_lugar": "932562300",
+            "descripcion_lugar": "Museo etnológico y cultural, con exposiciones de objetos de humanos de África, Asia y otras regiones.",
+            "foto_lugar": "etnologico.png",
+            "id_tipo_fk": 2,
+            "id_tag_fk": 1
+        },
+        {
+            "id_lugar": 7,
+            "nombre_lugar": "Grand Hotel Central Barcelona",
+            "coordenadas_lugar": "41.38496758137014, 2.1777651668826183",
+            "direccion_lugar": "",
+            "telf_lugar": "932957900",
+            "descripcion_lugar": null,
+            "foto_lugar": "grandhotel.png",
+            "id_tipo_fk": 3,
+            "id_tag_fk": 1
+        },
+        {
+            "id_lugar": 8,
+            "nombre_lugar": "K+K Hotel Picasso",
+            "coordenadas_lugar": "41.38671668093708, 2.1838765987334914",
+            "direccion_lugar": "",
+            "telf_lugar": "935478600",
+            "descripcion_lugar": null,
+            "foto_lugar": "khotel.png",
+            "id_tipo_fk": 3,
+            "id_tag_fk": 1
+        },
+        {
+            "id_lugar": 9,
+            "nombre_lugar": "Hotel Motel One Barcelona",
+            "coordenadas_lugar": "41.39004382047747, 2.184520289337863",
+            "direccion_lugar": "",
+            "telf_lugar": "936261900",
+            "descripcion_lugar": null,
+            "foto_lugar": "hotelmotel.png",
+            "id_tipo_fk": 3,
+            "id_tag_fk": 1
+        },
+        {
+            "id_lugar": 10,
+            "nombre_lugar": "CaixaBank",
+            "coordenadas_lugar": "41.3862715005426, 2.181713363478766",
+            "direccion_lugar": "",
+            "telf_lugar": "932298770",
+            "descripcion_lugar": null,
+            "foto_lugar": "caixa.png",
+            "id_tipo_fk": 4,
+            "id_tag_fk": 1
+        },
+        {
+            "id_lugar": 11,
+            "nombre_lugar": "Banc Sabadell",
+            "coordenadas_lugar": "41.38442149199794, 2.1845427089262124",
+            "direccion_lugar": "",
+            "telf_lugar": "933150561",
+            "descripcion_lugar": null,
+            "foto_lugar": "sabadell.png",
+            "id_tipo_fk": 4,
+            "id_tag_fk": 1
+        },
+        {
+            "id_lugar": 12,
+            "nombre_lugar": "Banco Santander",
+            "coordenadas_lugar": "41.38604778562761, 2.1771442815801367",
+            "direccion_lugar": "",
+            "telf_lugar": "933100802",
+            "descripcion_lugar": null,
+            "foto_lugar": "santander.png",
+            "id_tipo_fk": 4,
+            "id_tag_fk": 1
+        },
+        {
+            "id_lugar": 13,
+            "nombre_lugar": "Farmàcia",
+            "coordenadas_lugar": "41.3917071397534, 2.180302370593196",
+            "direccion_lugar": "",
+            "telf_lugar": "932314605",
+            "descripcion_lugar": null,
+            "foto_lugar": "farmacia.png",
+            "id_tipo_fk": 5,
+            "id_tag_fk": 1
+        },
+        {
+            "id_lugar": 14,
+            "nombre_lugar": "Farmàcia Fonoll",
+            "coordenadas_lugar": "41.38779081222274, 2.178106634261473",
+            "direccion_lugar": "",
+            "telf_lugar": "933190329",
+            "descripcion_lugar": null,
+            "foto_lugar": "farmacia.png",
+            "id_tipo_fk": 5,
+            "id_tag_fk": 1
+        },
+        {
+            "id_lugar": 15,
+            "nombre_lugar": "Farmacia Sombrerers",
+            "coordenadas_lugar": "41.38402500155821, 2.181849662062854",
+            "direccion_lugar": "",
+            "telf_lugar": "933103460",
+            "descripcion_lugar": null,
+            "foto_lugar": "farmacia.png",
+            "id_tipo_fk": 5,
+            "id_tag_fk": 1
+        },
+        {
+            "id_lugar": 16,
+            "nombre_lugar": "Estació de França",
+            "coordenadas_lugar": "41.3848027799097, 2.1853700234520264",
+            "direccion_lugar": "",
+            "telf_lugar": null,
+            "descripcion_lugar": null,
+            "foto_lugar": "estacionfrancia.png",
+            "id_tipo_fk": 6,
+            "id_tag_fk": 1
+        },
+        {
+            "id_lugar": 17,
+            "nombre_lugar": "L1 Arc de Triomf",
+            "coordenadas_lugar": "41.392001092863644, 2.181220581376575",
+            "direccion_lugar": "",
+            "telf_lugar": null,
+            "descripcion_lugar": null,
+            "foto_lugar": "l1.png",
+            "id_tipo_fk": 6,
+            "id_tag_fk": 1
+        },
+        {
+            "id_lugar": 18,
+            "nombre_lugar": "L4 Urquinaona",
+            "coordenadas_lugar": "41.38875538942069, 2.1728957766424215",
+            "direccion_lugar": "",
+            "telf_lugar": null,
+            "descripcion_lugar": null,
+            "foto_lugar": "l4.png",
+            "id_tipo_fk": 6,
+            "id_tag_fk": 1
+        },
+        {
+            "id_lugar": 19,
+            "nombre_lugar": "Arco de Triunfo de Barcelona",
+            "coordenadas_lugar": "41.39112215841537, 2.180668039178895",
+            "direccion_lugar": "",
+            "telf_lugar": "932853834",
+            "descripcion_lugar": "Arco clásico construido como entrada principal a la Exposición Universal que se celebró en la ciudad en 1888.",
+            "foto_lugar": "arcotriunfo.png",
+            "id_tipo_fk": 7,
+            "id_tag_fk": 1
+        },
+        {
+            "id_lugar": 20,
+            "nombre_lugar": "Parque de la Ciudadela",
+            "coordenadas_lugar": "41.38826788704287, 2.1868735066661986",
+            "direccion_lugar": "",
+            "telf_lugar": "638237115",
+            "descripcion_lugar": "Parque creado a finales del siglo XIX con zoo, lago con barcas, museos ornamentados y senderos frondosos.",
+            "foto_lugar": "ciutadella.png",
+            "id_tipo_fk": 7,
+            "id_tag_fk": 1
+        },
+        {
+            "id_lugar": 21,
+            "nombre_lugar": "Palau de la Música Catalana",
+            "coordenadas_lugar": "41.38755910128415, 2.1752484268421157",
+            "direccion_lugar": "",
+            "telf_lugar": "932957200",
+            "descripcion_lugar": "Sala de conciertos modernista famosa por su elaborada fachada y por su opulento auditorio con claraboya.",
+            "foto_lugar": "palaumusica.png",
+            "id_tipo_fk": 7,
+            "id_tag_fk": 1
+        },
+        {
+            "id_lugar": 33,
+            "nombre_lugar": "dsvd",
+            "coordenadas_lugar": "41.38755910128415, 2.1752484268421157",
+            "direccion_lugar": "dsvffds",
+            "telf_lugar": null,
+            "descripcion_lugar": "dsvdfd",
+            "foto_lugar": "B9pLska4RID645PASoKLyfuDVaJrsGWKQUtufYXS.jpg",
+            "id_tipo_fk": 4,
+            "id_tag_fk": 2
+        }
+    ]
+]
