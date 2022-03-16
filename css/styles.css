@@ -124,6 +124,7 @@ body {
   top: 0;
   left: 0;
   width: 100%;
+  display: none;
 }
 
 .main-page .top-menu .content_top-menu .content-tags {
